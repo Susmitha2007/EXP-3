@@ -1,6 +1,8 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3				STAIR CASE WIRING     
+
 Name: Nara Guna Susmitha
+
 Reg No: 212224230176
  
 AIM
